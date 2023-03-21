@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/orderSeller"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Order" />
+    <item
+        android:id="@+id/foodSeller"
+        android:icon="@drawable/recommended1"
+        android:title="Food " />
+    <item
+        android:id="@+id/profileSeller"
+        android:icon="@drawable/fui_ic_anonymous_white_24dp"
+        android:title="Profile" />
+</menu>

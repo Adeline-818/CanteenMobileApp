@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="College_Branches">
+        <item>INTI International University</item>
+        <item>INTI International College Subang</item>
+        <item>INTI International Colege Penang</item>
+        <item>INTI International College Kuala Lumpur</item>
+        <item>INTI International College Sabah</item>
+        <item>INTI International College Nilai</item>
+    </string-array>
+
+    <string-array name="Menu_Category">
+        <item>Special</item>
+        <item>Drinks</item>
+        <item>Rice Sets</item>
+        <item>Roti Sets</item>
+    </string-array>
+
+    <string-array name="Addition_For_Rice">
+        <item>Fish Curry</item>
+        <item>Chicken Sambal</item>
+        <item>Fried Chicken</item>
+        <item>Fried Sausage</item>
+        <item>Cabbage</item>
+        <item>Mix Vegetable</item>
+    </string-array>
+
+
+
+</resources>
